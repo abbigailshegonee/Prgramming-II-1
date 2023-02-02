@@ -1,15 +1,9 @@
-num1 = float(input("Enter first positive number: "))
-num2 = float(input("Enter second positive number: "))
+num1 = int(input("Enter first positive number: "))
+num2 = int(input("Enter second positive number: "))
 temp = 1
 while (temp > 0):
-  wowie = num1 % num2
-  a = num1 % 1
-  b =
-  if wowie == 0:
-    gcf = num1
-  temp = 0
-  
+  temp = num1 % num2
+  num1 = num2
+  num2 = temp
 
-print(str(wowie))
-print(str(num1))
-print(str(num2))
+print("The GCD is", str(num1))

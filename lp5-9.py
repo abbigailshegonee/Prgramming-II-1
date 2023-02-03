@@ -4,4 +4,4 @@ for lcv in range(1, 6+1):
   lcv3 = lcv**3
   lcv4 = lcv**4
   lcv5 = lcv**4
-  print(f"{lcv}\t {lcv2}\t {lcv3}\t {lcv4}\t {lcv5}")
+  print(f"{lcv}\t\t {lcv2}\t\t {lcv3}\t\t {lcv4}\t\t {lcv5}")

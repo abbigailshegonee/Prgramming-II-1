@@ -4,7 +4,7 @@ class Shape:
     self.length = length
     self.width = width
     self._area = 0  # _ prefix basically means 'private'
-    self._perim = 0  # so it sould only be called in the class
+    self._perim = 0  # so it should only be called in the class
 
   # Mutator/Setter: modifies class data
   def calculate(self):

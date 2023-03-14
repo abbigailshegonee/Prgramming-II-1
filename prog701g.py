@@ -29,7 +29,7 @@ def main():
       small = "rtjythlksdrkjtgndgewroijgerjosedgvewsdjgewgpdrsogperopgblkjdxljvpewpgfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
 
       for person in people:
-        if isinstance(person, student):
+        if isinstance(person, Student):
           tot += person.gpa
           cnt += 1
         if isinstance(person, Teacher):

@@ -11,8 +11,7 @@ class ClLP312:
     return round((number / self.budget) * 100, 2)
 
   def calculate(self):
-    self.budget = self.food + self.clothing + \
-                  self.entertainment + self.rent 
+    self.budget = self.food + self.clothing + self.entertainment + self.rent 
     self.percents[0] = self._percent(self.food)
     self.percents[1] = self._percent(self.clothing)
     self.percents[2] = self._percent(self.entertainment)

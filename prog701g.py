@@ -1,5 +1,6 @@
 from Cl701g import *
 
+
 def main():
   try:
     people = []
@@ -17,7 +18,7 @@ def main():
           p = Teacher(fn, ln, numStu)
           people.append(p)
         elif num == 3:
-          favW = f.readline().strip()
+          favW = str(f.readline().strip())
           p = Admin(fn, ln, favW)
           people.append(p)
         num = int(f.readline())
@@ -40,10 +41,10 @@ def main():
             large = favW
           if len(favW) < len(small):
             small = favW
-      print("Average student GPA:", round(tot/cnt, 2))
+      print("Average student GPA:", round(tot / cnt, 2))
       print("Total number of students taught:", totstus)
-      print("Smallest favporite admin word:", small)
-      print("largest favorite Admin word:", large)
+      print("Smallest favorite admin word:", small)
+      print("Largest favorite Admin word:", large)
   except Exception as e:
     print("Error:", e)
 

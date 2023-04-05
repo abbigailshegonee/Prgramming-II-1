@@ -1,0 +1,5 @@
+C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\FacClubConsole\bin\Debug\FacClubConsole.exe.config
+C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\FacClubConsole\bin\Debug\FacClubConsole.exe
+C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\FacClubConsole\bin\Debug\FacClubConsole.pdb
+C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\FacClubConsole\obj\Debug\FacClubConsole.exe
+C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\FacClubConsole\obj\Debug\FacClubConsole.pdb

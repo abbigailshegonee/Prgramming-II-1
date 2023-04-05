@@ -1,0 +1,5 @@
+C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\Lang54bConsole\bin\Debug\Lang54bConsole.exe.config
+C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\Lang54bConsole\bin\Debug\Lang54bConsole.exe
+C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\Lang54bConsole\bin\Debug\Lang54bConsole.pdb
+C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\Lang54bConsole\obj\Debug\Lang54bConsole.exe
+C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\Lang54bConsole\obj\Debug\Lang54bConsole.pdb

@@ -1,0 +1,5 @@
+C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\HelloName\bin\Debug\HelloName.exe.config
+C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\HelloName\bin\Debug\HelloName.exe
+C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\HelloName\bin\Debug\HelloName.pdb
+C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\HelloName\obj\Debug\HelloName.exe
+C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\HelloName\obj\Debug\HelloName.pdb

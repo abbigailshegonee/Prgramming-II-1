@@ -1,0 +1,9 @@
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog88a\bin\Debug\Prog88a.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog88a\obj\Debug\Prog88a.csprojResolveAssemblyReference.cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog88a\obj\Debug\Prog88a.Form1.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog88a\obj\Debug\Prog88a.Properties.Resources.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog88a\obj\Debug\Prog88a.csproj.GenerateResource.Cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog88a\bin\Debug\Prog88a.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog88a\bin\Debug\Prog88a.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog88a\obj\Debug\Prog88a.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog88a\obj\Debug\Prog88a.pdb

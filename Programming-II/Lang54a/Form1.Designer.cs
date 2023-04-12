@@ -60,7 +60,7 @@
             this.button2.Cursor = System.Windows.Forms.Cursors.No;
             this.button2.Font = new System.Drawing.Font("Franklin Gothic Book", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(79)))), ((int)(((byte)(81)))), ((int)(((byte)(15)))));
-            this.button2.Location = new System.Drawing.Point(222, 26);
+            this.button2.Location = new System.Drawing.Point(222, 24);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(133, 43);
             this.button2.TabIndex = 1;

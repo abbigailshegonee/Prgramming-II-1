@@ -163,9 +163,9 @@
             this.label5.ForeColor = System.Drawing.Color.LightCoral;
             this.label5.Location = new System.Drawing.Point(22, 318);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(119, 30);
+            this.label5.Size = new System.Drawing.Size(121, 30);
             this.label5.TabIndex = 9;
-            this.label5.Text = "Absolute Value : ";
+            this.label5.Text = "Abs. Value : ";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label6

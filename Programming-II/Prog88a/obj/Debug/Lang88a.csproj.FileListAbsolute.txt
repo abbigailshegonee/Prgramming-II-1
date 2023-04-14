@@ -1,0 +1,3 @@
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog88a\bin\Debug\Prog88a.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog88a\obj\Debug\Prog88a.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog88a\obj\Debug\Prog88a.pdb

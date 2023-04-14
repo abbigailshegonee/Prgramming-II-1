@@ -3,3 +3,6 @@ C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\YourNameConsole\bin\Debu
 C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\YourNameConsole\bin\Debug\YourNameConsole.pdb
 C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\YourNameConsole\obj\Debug\YourNameConsole.exe
 C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\YourNameConsole\obj\Debug\YourNameConsole.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\YourNameConsole\bin\Debug\YourNameConsole.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\YourNameConsole\obj\Debug\YourNameConsole.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\YourNameConsole\obj\Debug\YourNameConsole.pdb

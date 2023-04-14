@@ -1,0 +1,8 @@
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\AboutMeForm\bin\Debug\AboutMeForm.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\AboutMeForm\bin\Debug\AboutMeForm.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\AboutMeForm\bin\Debug\AboutMeForm.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\AboutMeForm\obj\Debug\AboutMeForm.Form1.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\AboutMeForm\obj\Debug\AboutMeForm.Properties.Resources.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\AboutMeForm\obj\Debug\AboutMe.csproj.GenerateResource.Cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\AboutMeForm\obj\Debug\AboutMeForm.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\AboutMeForm\obj\Debug\AboutMeForm.pdb

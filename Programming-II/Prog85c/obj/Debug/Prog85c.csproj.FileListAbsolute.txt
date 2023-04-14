@@ -1,0 +1,9 @@
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog85c\bin\Debug\Prog85c.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog85c\bin\Debug\Prog85c.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog85c\bin\Debug\Prog85c.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog85c\obj\Debug\Prog85c.csprojResolveAssemblyReference.cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog85c\obj\Debug\Prog85c.Form1.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog85c\obj\Debug\Prog85c.Properties.Resources.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog85c\obj\Debug\Prog85c.csproj.GenerateResource.Cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog85c\obj\Debug\Prog85c.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Prog85c\obj\Debug\Prog85c.pdb

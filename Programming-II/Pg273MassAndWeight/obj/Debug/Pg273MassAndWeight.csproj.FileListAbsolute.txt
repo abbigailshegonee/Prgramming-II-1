@@ -1,0 +1,9 @@
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg273MassAndWeight\bin\Debug\Pg273MassAndWeight.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg273MassAndWeight\bin\Debug\Pg273MassAndWeight.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg273MassAndWeight\bin\Debug\Pg273MassAndWeight.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg273MassAndWeight\obj\Debug\Pg273MassAndWeight.csprojResolveAssemblyReference.cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg273MassAndWeight\obj\Debug\Pg273MassAndWeight.Form1.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg273MassAndWeight\obj\Debug\Pg273MassAndWeight.Properties.Resources.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg273MassAndWeight\obj\Debug\Pg273MassAndWeight.csproj.GenerateResource.Cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg273MassAndWeight\obj\Debug\Pg273MassAndWeight.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg273MassAndWeight\obj\Debug\Pg273MassAndWeight.pdb

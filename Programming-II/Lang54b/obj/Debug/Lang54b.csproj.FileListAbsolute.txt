@@ -1,0 +1,9 @@
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang54b\bin\Debug\Lang54b.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang54b\bin\Debug\Lang54b.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang54b\bin\Debug\Lang54b.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang54b\obj\Debug\Lang54b.Form1.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang54b\obj\Debug\Lang54b.Properties.Resources.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang54b\obj\Debug\Lang54b.csproj.GenerateResource.Cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang54b\obj\Debug\Lang54b.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang54b\obj\Debug\Lang54b.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang54b\obj\Debug\Lang54b.csprojResolveAssemblyReference.cache

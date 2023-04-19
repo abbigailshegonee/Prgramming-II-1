@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{666A8AC3-906A-4D44-BC0C-5AD1ECE7B31F}</ProjectGuid>
+    <ProjectGuid>{5A493C6A-3A18-4292-BB13-08761867441E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Lang54b</RootNamespace>
-    <AssemblyName>Lang54b</AssemblyName>
+    <RootNamespace>Pg273MassAndWeight</RootNamespace>
+    <AssemblyName>Pg273MassAndWeight</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

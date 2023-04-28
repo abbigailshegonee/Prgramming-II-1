@@ -4,3 +4,6 @@ C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\Lang52aConsole\bin\Debug
 C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\Lang52aConsole\obj\Debug\Lang52aConsole.csprojResolveAssemblyReference.cache
 C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\Lang52aConsole\obj\Debug\Lang52aConsole.exe
 C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\Lang52aConsole\obj\Debug\Lang52aConsole.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang52aConsole\bin\Debug\Lang52aConsole.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang52aConsole\obj\Debug\Lang52aConsole.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang52aConsole\obj\Debug\Lang52aConsole.pdb

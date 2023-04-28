@@ -1,0 +1,9 @@
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang122a\bin\Debug\Lang122a.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang122a\bin\Debug\Lang122a.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang122a\bin\Debug\Lang122a.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang122a\obj\Debug\Lang122a.csprojResolveAssemblyReference.cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang122a\obj\Debug\Lang122a.Form1.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang122a\obj\Debug\Lang122a.Properties.Resources.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang122a\obj\Debug\Lang122a.csproj.GenerateResource.Cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang122a\obj\Debug\Lang122a.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang122a\obj\Debug\Lang122a.pdb

@@ -1,0 +1,8 @@
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang122b\bin\Debug\Lang122b.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang122b\bin\Debug\Lang122b.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang122b\bin\Debug\Lang122b.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang122b\obj\Debug\Lang122b.Form1.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang122b\obj\Debug\Lang122b.Properties.Resources.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang122b\obj\Debug\Lang122b.csproj.GenerateResource.Cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang122b\obj\Debug\Lang122b.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang122b\obj\Debug\Lang122b.pdb

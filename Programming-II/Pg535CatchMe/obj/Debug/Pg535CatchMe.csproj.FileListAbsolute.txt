@@ -1,1 +1,9 @@
 C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg535CatchMe\bin\Debug\Pg535CatchMe.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg535CatchMe\obj\Debug\Pg535CatchMe.Form1.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg535CatchMe\obj\Debug\Pg535CatchMe.Properties.Resources.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg535CatchMe\obj\Debug\Pg535CatchMe.csproj.GenerateResource.Cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg535CatchMe\bin\Debug\Pg535CatchMe.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg535CatchMe\bin\Debug\Pg535CatchMe.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg535CatchMe\obj\Debug\Pg535CatchMe.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg535CatchMe\obj\Debug\Pg535CatchMe.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg535CatchMe\obj\Debug\Pg535CatchMe.csprojResolveAssemblyReference.cache

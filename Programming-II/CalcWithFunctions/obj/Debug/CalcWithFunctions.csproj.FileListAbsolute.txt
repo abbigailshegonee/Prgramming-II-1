@@ -1,0 +1,6 @@
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\CalcWithFunctions\bin\Debug\CalcWithFunctions.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\CalcWithFunctions\bin\Debug\CalcWithFunctions.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\CalcWithFunctions\bin\Debug\CalcWithFunctions.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\CalcWithFunctions\obj\Debug\CalcWithFunctions.csprojResolveAssemblyReference.cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\CalcWithFunctions\obj\Debug\CalcWithFunctions.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\CalcWithFunctions\obj\Debug\CalcWithFunctions.pdb

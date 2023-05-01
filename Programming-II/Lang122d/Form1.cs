@@ -33,14 +33,16 @@ namespace Lang122d
             double lcv = -12; listBox1.Items.Add("x :\t\ty :");
             while (lcv <= 16)
             {
-                double y = Math.Round((Math.Pow(lcv, 6)) + 
-                            (-3 * Math.Pow(lcv, 5)) + 
-                            (-93 * Math.Pow(lcv, 4)) + 
-                            (87 * Math.Pow(lcv, 3)) + 
-                            (1596 * Math.Pow(lcv, 2)) + 
-                            (-1380 * lcv) + (-2800), 1);
-                if (y <= 999999) listBox1.Items.Add(lcv + "\t\t" + y);
-                else listBox1.Items.Add(lcv + "\t\t" + y + "e+06");
+                double yippee = lcv;
+                double y = Math.Round((Math.Pow(yippee, 6)) + 
+                            (-3 * Math.Pow(yippee, 5)) + 
+                            (-93 * Math.Pow(yippee, 4)) + 
+                            (87 * Math.Pow(yippee, 3)) + 
+                            (1596 * Math.Pow(yippee, 2)) + 
+                            (-1380 * yippee) + (-2800), 1);
+                if (y <= 999999) listBox1.Items.Add(yippee + "\t\t" + y);
+                else listBox1.Items.Add(yippee + "\t\t" + y + "e+06");
+                    
              lcv++;
             }
         }

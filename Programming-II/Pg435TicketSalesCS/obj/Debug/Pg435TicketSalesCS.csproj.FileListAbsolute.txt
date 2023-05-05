@@ -1,0 +1,11 @@
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg435TicketSalesCS\bin\Debug\Pg435TicketSalesCS.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg435TicketSalesCS\bin\Debug\Pg435TicketSalesCS.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg435TicketSalesCS\bin\Debug\Pg435TicketSalesCS.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.csprojResolveAssemblyReference.cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.Form1.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.GeneralForm.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.Properties.Resources.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.StudentForm.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.csproj.GenerateResource.Cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.pdb

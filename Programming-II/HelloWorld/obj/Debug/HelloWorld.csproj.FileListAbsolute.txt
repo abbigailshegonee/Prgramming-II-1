@@ -7,3 +7,12 @@ C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\HelloWorld\obj\Debug\Hel
 C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
 C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\shegonee.a\Desktop\Programing-2\Programming-II\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache

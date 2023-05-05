@@ -1,0 +1,9 @@
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang366b\bin\Debug\Lang366b.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang366b\bin\Debug\Lang366b.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang366b\bin\Debug\Lang366b.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang366b\obj\Debug\Lang366b.csprojResolveAssemblyReference.cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang366b\obj\Debug\Lang366b.Form1.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang366b\obj\Debug\Lang366b.Properties.Resources.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang366b\obj\Debug\Lang366b.csproj.GenerateResource.Cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang366b\obj\Debug\Lang366b.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Lang366b\obj\Debug\Lang366b.pdb

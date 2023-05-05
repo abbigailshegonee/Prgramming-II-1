@@ -1,0 +1,8 @@
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg334LoanCalculator\bin\Debug\Pg334LoanCalculator.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg334LoanCalculator\bin\Debug\Pg334LoanCalculator.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg334LoanCalculator\bin\Debug\Pg334LoanCalculator.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.Form1.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.Properties.Resources.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.csproj.GenerateResource.Cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.pdb

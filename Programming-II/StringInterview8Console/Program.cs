@@ -23,7 +23,7 @@ namespace StringInterview8Console
                     CharCount++;
                 }
             }
-            Console.WriteLine("Character '" + letter + "' appears " + CharCount + " times");
+            Console.WriteLine("Character '" + letter + "' appears in '" + word + "' " + CharCount + " times");
             Console.ReadLine();
 
         }

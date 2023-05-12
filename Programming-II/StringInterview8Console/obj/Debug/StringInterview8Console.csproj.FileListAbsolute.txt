@@ -1,0 +1,5 @@
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\StringInterview8Console\bin\Debug\StringInterview8Console.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\StringInterview8Console\bin\Debug\StringInterview8Console.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\StringInterview8Console\bin\Debug\StringInterview8Console.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\StringInterview8Console\obj\Debug\StringInterview8Console.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\StringInterview8Console\obj\Debug\StringInterview8Console.pdb

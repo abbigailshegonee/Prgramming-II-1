@@ -1,0 +1,6 @@
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\StrInterview7\bin\Debug\StrInterview7.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\StrInterview7\bin\Debug\StrInterview7.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\StrInterview7\bin\Debug\StrInterview7.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\StrInterview7\obj\Debug\StrInterview7.csprojResolveAssemblyReference.cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\StrInterview7\obj\Debug\StrInterview7.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\StrInterview7\obj\Debug\StrInterview7.pdb

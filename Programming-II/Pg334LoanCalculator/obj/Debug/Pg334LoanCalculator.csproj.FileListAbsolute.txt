@@ -6,3 +6,4 @@ C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg334LoanCalcu
 C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.csproj.GenerateResource.Cache
 C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.exe
 C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.csprojResolveAssemblyReference.cache

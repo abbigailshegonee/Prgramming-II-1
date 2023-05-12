@@ -1,0 +1,9 @@
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg514SalesData\bin\Debug\Pg514SalesData.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg514SalesData\obj\Debug\Pg514SalesData.Form1.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg514SalesData\obj\Debug\Pg514SalesData.Properties.Resources.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg514SalesData\obj\Debug\Pg514SalesData.csproj.GenerateResource.Cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg514SalesData\bin\Debug\Pg514SalesData.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg514SalesData\bin\Debug\Pg514SalesData.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg514SalesData\obj\Debug\Pg514SalesData.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg514SalesData\obj\Debug\Pg514SalesData.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg514SalesData\obj\Debug\Pg514SalesData.csprojResolveAssemblyReference.cache

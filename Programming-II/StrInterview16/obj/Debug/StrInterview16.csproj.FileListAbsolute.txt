@@ -1,0 +1,5 @@
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\StrInterview16\bin\Debug\StrInterview16.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\StrInterview16\bin\Debug\StrInterview16.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\StrInterview16\bin\Debug\StrInterview16.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\StrInterview16\obj\Debug\StrInterview16.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\StrInterview16\obj\Debug\StrInterview16.pdb

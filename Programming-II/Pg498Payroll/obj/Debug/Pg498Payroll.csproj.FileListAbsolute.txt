@@ -1,0 +1,9 @@
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg498Payroll\bin\Debug\Pg498Payroll.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg498Payroll\obj\Debug\Pg498Payroll.csprojResolveAssemblyReference.cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg498Payroll\obj\Debug\Pg498Payroll.Form1.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg498Payroll\obj\Debug\Pg498Payroll.Properties.Resources.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg498Payroll\obj\Debug\Pg498Payroll.csproj.GenerateResource.Cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg498Payroll\bin\Debug\Pg498Payroll.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg498Payroll\bin\Debug\Pg498Payroll.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg498Payroll\obj\Debug\Pg498Payroll.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Pg498Payroll\obj\Debug\Pg498Payroll.pdb

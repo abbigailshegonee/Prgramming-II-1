@@ -1,0 +1,10 @@
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Final\bin\Debug\Final.exe.config
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Final\bin\Debug\Final.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Final\bin\Debug\Final.pdb
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Final\obj\Debug\Final.SelectionForm.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Final\obj\Debug\Final.MainForm.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Final\obj\Debug\Final.exe
+C:\Users\shegonee.a\Desktop\yippee\Prgramming-II-1\Programming-II\Final\obj\Debug\Final.pdb

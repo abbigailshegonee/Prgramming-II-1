@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterview8Console", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterview18Console", "StringInterview18Console\StringInterview18Console.csproj", "{E043EA11-D820-475B-B965-9EF966CA8E20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEncoderAndDecoder", "Final\TextEncoderAndDecoder.csproj", "{25B1115B-0A22-4E92-A8F5-B2BFCB94E283}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{E043EA11-D820-475B-B965-9EF966CA8E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E043EA11-D820-475B-B965-9EF966CA8E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E043EA11-D820-475B-B965-9EF966CA8E20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25B1115B-0A22-4E92-A8F5-B2BFCB94E283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B1115B-0A22-4E92-A8F5-B2BFCB94E283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25B1115B-0A22-4E92-A8F5-B2BFCB94E283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25B1115B-0A22-4E92-A8F5-B2BFCB94E283}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
